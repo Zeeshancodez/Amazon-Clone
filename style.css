@@ -168,7 +168,7 @@ header {
 /* Hero Section */
 .hero-section {
   height: 400px;
-  background-image: url("images/hero-img.jpg");
+  background-image: url("hero-img.jpg");
   background-position: center;
   background-size: cover;
 }
